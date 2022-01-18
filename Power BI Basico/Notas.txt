@@ -1,0 +1,29 @@
+PREPARACION DE DATOS 
+
+Lo primero es subir los datos desde el excel 
+
+Seleccionamos en el subir datos y debemos elegir el formato asi como cargarlo
+
+Una vez cargado los datos vamos al transformar datos y desde aqui vemos que se nos abre un nuevo query 
+
+Hay que hacerle la preparacion a los datos 
+
+Recordar todos los toque de los nombre sobre los tipos de datos en el apartado del power bi y el dejar las columnas como una
+
+sola cosa con atributos para evistar los duplicados
+
+---------------------
+
+MODELADO DE DATOS 
+
+En lo paneles de los costados vemos la informacion por tabla y como podemos hacer busuqedas por filtrados de forma basica 
+
+asi como tambien podemos ver como darle formatos a las columnas y cambiar las visualizaciones de las tablas 
+
+
+----------------
+
+Visualizacion de datos 
+
+Nos vamos a la pesataña principal la primera de las 3 cuando abrimos el sistema y podemos ver como nos agregar  tablas o
+visualizaciones 
